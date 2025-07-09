@@ -17,5 +17,4 @@
 - **Database**: MongoDB (Mongoose)
 - **Templating Engine**: EJS (if applicable)
 
-## 📂 Folder Structure
 
